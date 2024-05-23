@@ -1,14 +1,14 @@
 ### Selamlar, Ben Esmanur👋
 
 ## Hakkımda
-Merhaba! Ben Esmanur. Yazılım geliştirme konusunda tutkulu biriyim ve her geçen gün kendimi geliştirmeye çalışıyorum. 
+Merhaba! Ben Esmanur. Yazılım geliştirme konusunda meraklı biriyim ve her geçen gün kendimi geliştirmeye çalışıyorum. 
 
 ## İletişim
 - **E-posta:** esanymn@gamil.com
 - **LinkedIn:** https://tr.linkedin.com/in/esmanuryaman
 
 ## Ekstra Bilgiler
-- **Hobiler:** Kod yazmanın yanı sıra, Satranç ve münazara.
+- **Hobiler:** Satranç ve münazara.
 - **İlgi Alanları:** Tarih, sulu boya ve sanat.
 
 GitHub profilimi ziyaret ettiğiniz için teşekkürler! Projelerimi beğenirseniz yıldız bırakmayı unutmayın ⭐
