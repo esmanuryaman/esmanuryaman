@@ -1,4 +1,4 @@
-![GIF](https://giphy.com/gifs/movie-film-eHQ5BsgBIBIGI/fullscreen) 
+![GIF](https://imgyukle.com/i/y0ou2N) 
 # 💫 About Me:
 Adım Esmanur! Yazılımda yeniyim ve kendimi bu konuda gelişmeye çalışıyorum.
 
