@@ -1,5 +1,5 @@
 # 💫 About Me:
-Adım Esmanur! Yazılımda yeniyim ve her geçen gün kendimi geliştirmeye çalışıyorum.
+Adım Esmanur! Yazılımda yeniyim ve kendimi bu konuda gelişmeye çalışıyorum.
 
 
 ## 🌐 Socials:
