@@ -1,3 +1,4 @@
+![GIF](https://giphy.com/gifs/van-gogh-starry-night-LbBSU26sSRAE8/fullscreen)
 ### Selamlar, Ben Esmanur👋
 
 ## Hakkımda
